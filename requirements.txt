@@ -1,9 +1,0 @@
-pandas
-numpy
-matplotlib
-unidecode
-spacy
-nltk
-contractions
-ipykernel
-scikit-learn
