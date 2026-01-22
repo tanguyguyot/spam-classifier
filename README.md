@@ -1,6 +1,7 @@
 # Spam Detection Pipeline
 
 This repository contains a spam detection pipeline implemented in Python. The pipeline utilizes various machine learning models to classify SMS messages as spam or ham (not spam).
+This includes a homemade Word2Vec embeddings implementation with Keras for my own's training purpose, though it might seem overkill in this kind of dataset with many unique words. We actually got the best recall using this from-scratch Word2Vec embedding implementation combined with XGBoost.
 
 ## Getting Started
 
