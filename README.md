@@ -38,7 +38,7 @@ You can configure the model type and embedding type by modifying the parameters 
 
 ### Evaluation
 
-After running the pipeline, the results will include a summary of recalls for each model type used in the classification.
+After running the pipeline, the results will include a summary of Recall for each model type used in the classification, as False Negative are more expensive than false positives (we want to ideally avoid getting spams in our mailbox).
 
 ## License
 
